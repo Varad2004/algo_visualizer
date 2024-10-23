@@ -1,7 +1,3 @@
-/**
- * @author Dipesh Vinod Patil <thedipeshpatil@gmail.com>
- */
-
 import React from "react";
 
 //  Importing Node Component to display Node on Grid
