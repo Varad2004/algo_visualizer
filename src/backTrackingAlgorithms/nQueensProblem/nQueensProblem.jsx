@@ -254,7 +254,7 @@ export default class NQueensProblem extends React.Component {
                     The Visualiser works best for board sizes between 4 and 8
                     inclusive. Larger board sizes would make the page
                     unresponsive because of huge number of computations. &nbsp;
-                    <a href="https://github.com/dipeshpatil/algorithms-visualiser/tree/master/src/backTrackingAlgorithms">
+                    <a href="https://github.com/Varad2004/algo_visualizer/tree/master/src/backTrackingAlgorithms">
                       GitHub Repo for this project
                     </a>
                   </small>
